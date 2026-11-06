@@ -1,0 +1,6 @@
+{
+  "name": "Petualang Berkah: Qurban & Aqiqah SMP Kelas 9",
+  "description": "Game edukasi rintangan seru materi Qurban dan Aqiqah untuk siswa kelas 9 SMP dengan mode individu & tim, kustomisasi karakter, dan kuis berhadiah poin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
